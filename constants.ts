@@ -30,7 +30,7 @@ export const PARTICIPANTS: Participant[] = [
     name: "Laxmi",
     fullName: "Laxmi Bohara",
     question:
-      "What kind of assessments can AI take to determine an eligible candidate at your firm?",
+      "What kind of assessments can AI perform to determine an eligible candidate at your firm?",
     hasSpoken: false,
   },
   {
@@ -38,7 +38,7 @@ export const PARTICIPANTS: Participant[] = [
     name: "Sachin",
     fullName: "Sachin Giri",
     question:
-      "Can AI recruitment systems fairly evaluate creativity and innovation in game development roles?",
+      "Can AI recruitment systems fairly forecast creativity and innovation in game development roles?",
     hasSpoken: false,
   },
   {
@@ -94,7 +94,7 @@ export const PARTICIPANTS: Participant[] = [
     name: "Prem",
     fullName: "Prem Prasad Regmi",
     question:
-      "Should AI be involved in evaluating judgment and decision-making skills for senior finance and CFO-level recruitment?",
+      "Should AI be deployed in evaluating judgmental and decision-making skills for senior finance and CFO-level recruitment?",
     hasSpoken: false,
   },
   {
@@ -118,7 +118,7 @@ export const PARTICIPANTS: Participant[] = [
     name: "Shalina",
     fullName: "Shalina Shrestha",
     question:
-      "How can AI-based recruitment tools accurately assess leadership, stakeholder management, and decision-making skills required for a project manager role?",
+      "How can ATS be helpful in the effective selection of right people in the right place?",
     hasSpoken: false,
   },
   {
@@ -150,7 +150,7 @@ export const PARTICIPANTS: Participant[] = [
     name: "Sabina Ma'am",
     fullName: "Sabina Ma'am",
     question:
-      "Can AI effectively evaluate a professor’s ability to inspire, mentor, and coordinate complex MBA programs, or are human insights essential for such roles?",
+      "Can AI effectively predict a professor’s ability to inspire, mentor, and coordinate complex MBA programs, or are human insights essential for such roles?",
     hasSpoken: false,
   },
 ];
